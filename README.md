@@ -27,10 +27,10 @@
 ### 🖥 Skills
 
 - Programming Languages:
--   
 - Python  
 - R  
-- HTML5  
+- HTML5
+- CSS
 - ---
 - Machine Learning & Data Science  
 - Supervised and Unsupervised Learning  
