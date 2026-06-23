@@ -16,7 +16,7 @@
 
 ## About
 
-Data Engineer with 3 internships shipping production ETL pipelines, RAG systems, and containerized applications.
+Data Engineer with 3 internships --- shipping production ETL pipelines, RAG systems, and containerized applications.
 Core proficiency in Python and SQL — experienced across the full data lifecycle, from pipeline architecture and model deployment to cloud infrastructure.
 
 - 🔧 **Currently building:** Agentic AI systems, offline NLP tools, no-code data frameworks
